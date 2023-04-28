@@ -7,7 +7,7 @@
     "start": "node server",
     "server": "nodemon server"
   },
-  "author": "Sonu Bhatt",
+  "author": "Rakshit Arora",
   "license": "MIT",
   "engines": {
     "node": "14.x"
